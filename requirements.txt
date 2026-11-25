@@ -1,0 +1,4 @@
+google-adk~=1.0
+google-genai
+python-dotenv
+truststore
